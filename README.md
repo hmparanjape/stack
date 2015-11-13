@@ -11,5 +11,5 @@ Graduate-level resources in Mechanical Engineering and Materials Science
 7. DOE [Graduate Student Research Program](http://science.energy.gov/wdts/scgsr/) - Due December 15th, opportunity to work at X-ray national user facilities
 
 ## Academic Funding Opportunities for Microstructural Research
-1. [Barely navigable sea of opportunities](http://www.grants.gov/)
+1. [Grants.gov - Barely navigable sea of opportunities](http://www.grants.gov/)
 2. [Grant forward](https://www.grantforward.com/index) - A keyword based grant search engine. Can make suggestions based on your interests.
